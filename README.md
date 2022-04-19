@@ -86,7 +86,9 @@ To get a local copy up and running follow these simple example steps.
    ```sh
     npm install
    ```
-3. Run development server
+3. Create MongoDB Database with Atlas
+4. Connect MongoDB to your app 
+5. Run development server
     ```sh
     npm run develop
    ```
